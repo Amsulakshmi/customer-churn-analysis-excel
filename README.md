@@ -1,5 +1,5 @@
 # Telco Customer Churn Analysis (Excel)
-
+![Dashboard](dashboard.png)
 ## Problem
 A telecom company is losing customers. Which customers leave, and how much revenue does that cost?
 
