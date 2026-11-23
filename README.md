@@ -31,4 +31,4 @@ IBM Telco Customer Churn dataset (Kaggle): 7,043 customers, 21 columns
 - `Telco_Churn_Analysis.xlsx`: data, KPI sheet, pivot and dashboard
 - `dashboard.png`: dashboard screenshot
 
-Tools: Excel (XLOOKUP/COUNTIFS/SUMIFS, PivotTables, charts)
+Tools: Excel (COUNTIFS/SUMIFS/AVERAGEIFS, PivotTables, charts)
